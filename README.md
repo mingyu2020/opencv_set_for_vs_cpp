@@ -40,6 +40,7 @@ int main() {
 - 생성한 프로젝트 파일의 위치에 example.jpg의 이미지 파일 생성
 - 상단 바 프로젝트 메뉴의 속성 클릭 ▶ 구성속성 ▶ 디버깅 ▶ 명령 인수 ▶ example.jpg 입력 후, 적용 및 확인
 - 로컬 Windows 디버거 클릭
+![example](https://github.com/mingyu2020/opencv_set_for_vs_cpp/assets/127829026/59857369-dc66-474e-890d-94bda20054d3)
 
 
 
