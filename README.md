@@ -19,7 +19,7 @@
 
 
 
-● [이미지를 읽어오는 간단한 코드 테스트]
+[이미지를 읽어오는 간단한 코드 테스트]
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
@@ -44,7 +44,7 @@ int main() {
 
 
 
-● [OpenCV 샘플 파일에 있는 C++코드 실행 테스트(edge.cpp)]
+[OpenCV 샘플 파일에 있는 C++코드 실행 테스트(edge.cpp)]
 - 코드 위치 = C:\opencv\sources\samples\cpp\edge.cpp
 - 프로젝트에 해당 코드 입력 후 실행
 ![edgeMap_sobelGradient](https://github.com/mingyu2020/opencv_set_for_vs_cpp/assets/127829026/b0e4e66c-2d6b-4355-ac59-51ec7d11b597)
