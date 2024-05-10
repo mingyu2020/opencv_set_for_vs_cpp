@@ -1,4 +1,4 @@
-![edgeMap_sobelGradient](https://github.com/mingyu2020/opencv_set_for_vs_cpp/assets/127829026/a8b9dd81-ccac-4a24-9f78-28bc940fb890)● Visual Studio 2022에 OpenCV를 설치하는 과정
+● Visual Studio 2022에 OpenCV를 설치하는 과정
 
 1. OpenCV 다운로드 
 - 사이트 = https://opencv.org/releases/
