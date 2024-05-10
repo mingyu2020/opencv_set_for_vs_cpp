@@ -1,4 +1,4 @@
-● [Visual Studio 2022에 OpenCV를 설치하는 과정]
+[Visual Studio 2022에 OpenCV를 설치하는 과정]
 
 1. OpenCV 다운로드 
 - 사이트 = https://opencv.org/releases/
